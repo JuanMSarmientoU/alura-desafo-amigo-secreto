@@ -1,5 +1,5 @@
 # Amigo Secreto 🎁
-
+Este proyecto es parte del curso de Principiante en Programación G8 - ONE, de la academia Alura Latam.
 ## Descripción 📜
 Este proyecto es una aplicación web que permite a los usuarios agregar nombres a una lista y sortear un "Amigo Secreto" de manera aleatoria. Se asegura de que cada persona reciba a otra sin repeticiones ni asignaciones a sí misma.
 
@@ -18,7 +18,7 @@ Este proyecto es una aplicación web que permite a los usuarios agregar nombres 
 
 ## Cómo Ejecutarlo 🚀
 ```sh
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/JuanMSarmientoU/alura-desafo-amigo-secreto.git
 cd amigo-secreto
 open index.html
 ```
@@ -86,7 +86,7 @@ function sortearAmigo() {
 
 ## Autor 🧑‍💻
 ```txt
-- Tu Nombre - https://github.com/tu-usuario
+- JuanMSarmientoU - https://github.com/JuanMSarmientoU
 ```
 
 ## Contribuciones 🤝
